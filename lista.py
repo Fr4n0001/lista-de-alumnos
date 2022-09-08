@@ -15,3 +15,6 @@ class lista():
         else:
             self.alumnos.append(student)
             
+lista=lista()
+Nombre={'Nick':'Fr4n0001','Name':'Francisco','Lname':'Parente','Byear':2003,'Month':11,'Day':6}
+lista.add_student(Nombre)
